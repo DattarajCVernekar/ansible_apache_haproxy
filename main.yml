@@ -1,0 +1,6 @@
+---
+- include: playbooks/balancer/main.yml
+- include: playbooks/webserver/main.yml
+- include: playbooks/database/main.yml
+
+
